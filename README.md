@@ -1,8 +1,9 @@
 # Aerofit_Project
 🚴 Aerofit Case Study Analysis: Descriptive Statistics & Probability
-image
 
-🎯 Objective
+
+# 🎯 Objective
+
 The primary goal of this analysis is to create comprehensive customer profiles for each AeroFit treadmill product through descriptive analytics. By developing two-way contingency tables and analyzing conditional and marginal probabilities, we aim to discern customer characteristics, facilitating improved product recommendations and informed business decisions.
 
 📝 Project Report
