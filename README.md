@@ -6,20 +6,29 @@
 
 The primary goal of this analysis is to create comprehensive customer profiles for each AeroFit treadmill product through descriptive analytics. By developing two-way contingency tables and analyzing conditional and marginal probabilities, we aim to discern customer characteristics, facilitating improved product recommendations and informed business decisions.
 
-📝 Project Report
+#📝 Project Report
 You can access the complete project Python file here: Python.
-📚 About Data
+
+# 📚 About Data
+
 The company collected data on individuals who purchased a treadmill from AeroFit stores during three months. The data is available in a single CSV file and includes the following features:
 
-Product Portfolio
-KP281: Entry-level treadmill priced at USD 1,500.
+# Product Portfolio
+KP281: Entry-level treadmill priced at USD 1,500. 
+
 KP481: Mid-level treadmill for runners priced at USD 1,750.
+
 KP781: Advanced treadmill with additional features priced at USD 2,500.
-Dataset Features
+
+# Dataset Features
 Product: Product Purchased - KP281, KP481, or KP781.
+
 Age: Age of buyer in years.
+
 Gender: Gender of buyer (Male/Female).
+
 Education: Education of buyer in years.
+
 Marital Status: Marital status of buyer (Single or partnered).
 Usage: The average number of times the buyer plans to use the treadmill each week.
 Income: Annual income of the buyer (in $).
